@@ -7,4 +7,4 @@ Write a c program that contains string with a value 'Hello World'.The program sh
 
 ### Output
 
-![output](pro2jpeg)
+![output](pro2.jpeg)
